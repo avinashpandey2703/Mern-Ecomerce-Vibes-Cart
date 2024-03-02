@@ -26,10 +26,8 @@ const app = express();
 app.use(express.json());
 app.use(express.urlencoded({extended:true}));
 app.use(cors());
-app.use(express.static(path.join(__dirname, '/frontend/build')));
-app.get('*', (req, res)=>{
-    res.sendFile(path.join(__dirname, '/frontend/build/index.html'));
-});
+
+
 
 const port = process.env.PORT || 4000;
 
@@ -51,6 +49,10 @@ app.use('/api/products',productRouter);
 app.use('/api/users',userRoutes);
 app.use('/api/orders', orderRouter);
 
+app.use(express.static(path.join(__dirname, '/frontend/build')));
+app.get('*', (req, res)=>{
+    res.sendFile(path.join(__dirname, '/frontend/build/index.html'));
+});
 
 // const __dirname=path.resolve();
 // app.use(express.static(path.join(__dirname,'/frontend/build')));
