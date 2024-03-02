@@ -24,7 +24,9 @@ const app = express();
 app.use(express.json());
 app.use(express.urlencoded({extended:true}));
 app.use(cors());
-const port = 4000;
+
+
+const port = process.env.PORT || 4000;
 
 //  sandboax
 // app.get('/api/keys/paypal',(req,res)=>{
