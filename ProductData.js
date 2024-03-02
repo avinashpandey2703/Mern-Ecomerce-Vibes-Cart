@@ -66,7 +66,7 @@ const ProductData = {
         {
             //          _id : '4',
             name: "Shirts",
-            slug: "Shirts",
+            slug: "Shirts3",
             category: 'Shirts',
             image: '/Assets/s3.jpg',
             price: 500,
@@ -79,7 +79,7 @@ const ProductData = {
         {
             //          _id : '5',
             name: "Check-shirt",
-            slug: "Shirts",
+            slug: "Shirts1",
             category: 'Shirts',
             image: '/Assets/Shirt1.jpg',
             price: 500,
@@ -92,7 +92,7 @@ const ProductData = {
         {
             //          _id : '6',
             name: "Shirts",
-            slug: "Shirts",
+            slug: "Shirts2",
             category: 'Check-shirt',
             image: '/Assets/Shirt2.jpg',
             price: 700,
@@ -105,7 +105,7 @@ const ProductData = {
         {
             //          _id : '7',
             name: "Shirts",
-            slug: "Shirts",
+            slug: "Shirts3",
             category: 'Half-Shirts',
             image: '/Assets/Shirt3.jpg',
             price: 600,
@@ -118,7 +118,7 @@ const ProductData = {
         {
             //          _id : '8',
             name: "Shirts",
-            slug: "Shirts",
+            slug: "Shirts4",
             category: 'Half-Shirts',
             image: '/Assets/Shirt4.jpg',
             price: 700,
@@ -131,7 +131,7 @@ const ProductData = {
         {
             //          _id : '9',
             name: "Shirts",
-            slug: "Shirts",
+            slug: "Shirts5",
             category: 'Check-shirt',
             image: '/Assets/Shirt5.jpg',
             price: 700,
@@ -144,7 +144,7 @@ const ProductData = {
         {
             //          _id : '9',
             name: "Shirts",
-            slug: "Shirts",
+            slug: "Shirts6",
             category: 'Check-shirt',
             image: '/Assets/Shirt6.jpg',
             price: 500,
@@ -157,7 +157,7 @@ const ProductData = {
         {
             //          _id : '9',
             name: "Shirts",
-            slug: "Shirts",
+            slug: "Shirts7",
             category: 'Check-shirt',
             image: '/Assets/Shirt7.jpg',
             price: 1000,
@@ -170,7 +170,7 @@ const ProductData = {
         {
             //          _id : '10',
             name: "Shirts",
-            slug: "Shirts",
+            slug: "Shirts8",
             category: 'Half-Shirts',
             image: '/Assets/whiteshirt.jpg',
             price: 900,
@@ -183,7 +183,7 @@ const ProductData = {
         {
             //          _id : '11',
             name: "Pants",
-            slug: "Pants",
+            slug: "Pants1",
             category: 'Pants',
             image: '/Assets/Pant1.jpg',
             price: 1000,
@@ -196,7 +196,7 @@ const ProductData = {
         {
             //          _id : '12',
             name: "Pants",
-            slug: "Pants",
+            slug: "Pants2",
             category: 'Pants',
             image: '/Assets/Pant2.jpg',
             price: 1000,
@@ -209,7 +209,7 @@ const ProductData = {
         {
             //          _id : '13',
             name: "Pants",
-            slug: "Pants",
+            slug: "Pants3",
             category: 'Pants',
             image: '/Assets/Pant4.jpg',
             price: 1000,
@@ -222,7 +222,7 @@ const ProductData = {
         {
             //          _id : '14',
             name: "Pants",
-            slug: "Pants",
+            slug: "Pants4",
             category: 'Pants',
             image: '/Assets/Pant2.jpg',
             price: 1000,
@@ -235,7 +235,7 @@ const ProductData = {
         {
             //          _id : '15',
             name: "Pants",
-            slug: "Pants",
+            slug: "Pants5",
             category: 'Pants',
             image: '/Assets/Pant5.jpg',
             price: 800,
@@ -261,7 +261,7 @@ const ProductData = {
         {
             //          _id : '17',
             name: "Hoddie",
-            slug: "Kids",
+            slug: "Kids2",
             category: 'Kids-Hoddie',
             image: '/Assets/Kids.jpg',
             price: 600,
@@ -274,7 +274,7 @@ const ProductData = {
         {
             //          _id : '18',
             name: "Jeans",
-            slug: "Jeans",
+            slug: "Jeans1",
             category: 'Jeans',
             image: '/Assets/Jeans2.jpg',
             price: 1200,
@@ -287,7 +287,7 @@ const ProductData = {
         {
             //          _id : '19',
             name: "Jeans",
-            slug: "Jeans",
+            slug: "Jeans2",
             category: 'Jeans',
             image: '/Assets/Jeans3.jpg',
             price: 1200,
@@ -300,7 +300,7 @@ const ProductData = {
         {
             //          _id : '20',
             name: "Jeans",
-            slug: "Jeans",
+            slug: "Jeans3",
             category: 'Jeans',
             image: '/Assets/Jeans5.jpg',
             price: 1200,
@@ -313,7 +313,7 @@ const ProductData = {
         {
             //     _id : '21',
             name: "MenHoddies",
-            slug: "Hoddies",
+            slug: "Hoddies2",
             category: 'Hoddies',
             image: '/Assets/Hoddie1.jpg',
             price: 1000,
@@ -326,7 +326,7 @@ const ProductData = {
         {
             //     _id : '22',
             name: "MenHoddies",
-            slug: "Hoddies",
+            slug: "Hoddies3",
             category: 'Hoddies',
             image: '/Assets/Hoddie2.jpg',
             price: 1000,
@@ -339,7 +339,7 @@ const ProductData = {
         {
             //     _id : '23',
             name: "MenHoddies",
-            slug: "Hoddies",
+            slug: "Hoddies4",
             category: 'Hoddies',
             image: '/Assets/Hoddie3.jpg',
             price: 1100,
@@ -353,7 +353,7 @@ const ProductData = {
         {
             //          _id : '24',
             name: "Shirts",
-            slug: "Shirts",
+            slug: "Shirts10",
             category: 'shirt',
             image: '/Assets/Blackshirt.jpg',
             price: 1100,
@@ -366,7 +366,7 @@ const ProductData = {
         {
             //          _id : '25',
             name: "Pants",
-            slug: "Pants",
+            slug: "Pants3",
             category: 'Pants',
             image: '/Assets/Cargopants.jpg',
             price: 1100,
@@ -379,7 +379,7 @@ const ProductData = {
         {
             //          _id : '26',
             name: "Hoddie",
-            slug: "Kids",
+            slug: "Kids5",
             category: 'Kids-Hoddie',
             image: '/Assets/Kids1.jpg',
             price: 600,
